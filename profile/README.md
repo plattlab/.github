@@ -6,5 +6,5 @@ We work at the interface of medicine, biotechnology, and genome engineering.
 
 Some of us code (sometimes). 
 
-
-[X](https://twitter.com/randall_platt)
+# Connect with us
+(X)[https://twitter.com/randall_platt]
