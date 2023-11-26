@@ -4,7 +4,6 @@ We are part of the Department of Biosystems Science and Engineering (D-​BSSE) 
 
 We work at the interface of medicine, biotechnology, and genome engineering.
 
-Some of us code (sometimes). 
 
 # Connect with us
 
